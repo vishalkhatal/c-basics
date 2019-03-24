@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "How to zip folder", "How to zip folder\How to zip folder.csproj", "{D6683F60-C677-4206-A6A9-7D950B263A4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6683F60-C677-4206-A6A9-7D950B263A4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6683F60-C677-4206-A6A9-7D950B263A4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6683F60-C677-4206-A6A9-7D950B263A4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6683F60-C677-4206-A6A9-7D950B263A4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40B11A84-7F80-4F16-8E84-C47F39E5D1F8}
+	EndGlobalSection
+EndGlobal
